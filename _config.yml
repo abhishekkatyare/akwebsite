@@ -1,29 +1,42 @@
 # Site settings
-title: Klise Theme # site title
+title: Abhishek Katyare # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  I’m an Engineer from Nashik, India who loves to develop digital systems and write software to make the world more digital. I am a coder by profession and entrepreneur by heart. I have a passion for creating and enhancing anything related to technology. When it comes to building something new, my ultimate goal is to make the world a better place. I’m a digital professional on the bleeding edge technology. Strong engineering professional with a Bachelor of Engineering (B.E.) focused on Computer Science and Engineering from Savitribai Phule Pune University.
+
+  I’m self-motivated, highly adaptable, intellectual, technology enthusiast, problem solver, persistent. Self-taught many programming languages and new technologies. I’m enthusiastic to learn new technologies and I like the trial and error method to solve any problem. I like to experiment and research on the Internet of Things(IoT), AI, Machine Learning, Deep Learning, BigData, Distributed Computing & Parallel Programming.
+
+  I’m a “jugaadu” kind of person. So if you gave me a challenge and time duration to find out the solution to it. And if I don’t know anything about it, then I just want one machine and full access to the internet. I’ll do research, learn, and develop the solution for that challenge within the given time frame.
+
+  I’m also interested in entrepreneurship, critical reading, listening to music, traveling, trekking, hiking, street, and landscape photography.
+
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: Asia/Kolkata # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/abhishekkatyare/website # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Your Name # author name
+  name: Abhishek Katyare # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    I’m an Engineer from Nashik, India who loves to develop digital systems and write software to make the world more digital. I am a coder by profession and entrepreneur by heart. I have a passion for creating and enhancing anything related to technology. When it comes to building something new, my ultimate goal is to make the world a better place. I’m a digital professional on the bleeding edge technology. Strong engineering professional with a Bachelor of Engineering (B.E.) focused on Computer Science and Engineering from Savitribai Phule Pune University.
+
+    I’m self-motivated, highly adaptable, intellectual, technology enthusiast, problem solver, persistent. Self-taught many programming languages and new technologies. I’m enthusiastic to learn new technologies and I like the trial and error method to solve any problem. I like to experiment and research on the Internet of Things(IoT), AI, Machine Learning, Deep Learning, BigData, Distributed Computing & Parallel Programming.
+
+    I’m a “jugaadu” kind of person. So if you gave me a challenge and time duration to find out the solution to it. And if I don’t know anything about it, then I just want one machine and full access to the internet. I’ll do research, learn, and develop the solution for that challenge within the given time frame.
+
+    I’m also interested in entrepreneurship, critical reading, listening to music, traveling, trekking, hiking, street, and landscape photography.
+
+    #<a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
   username: username # author username
-  github: github_username
-  twitter: twitter_username
-  facebook: facebook_username
-  email: your-email@email.com # your contact adress
+  github: abhishekkatyare
+  twitter: AbhishekKatyare
+  facebook: KatyareAbhishek
+  email: abhishekkatyare@email.com # your contact adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # Url settings
-url: "https://klise.now.sh"
+url: "https://akwebsite.vercel.app/"
 baseurl:
 permalink: /:title/
 google_analytics:
