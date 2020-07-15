@@ -1,8 +1,8 @@
 ---
-title: About
+title: About Me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hello, I'm an software engineer from India, living in Nashik. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
@@ -15,7 +15,7 @@ I’m a “jugaadu” kind of person. So if you gave me a challenge and time dur
 I’m also interested in entrepreneurship, critical reading, listening to music, traveling, trekking, hiking, street, and landscape photography.
 
 
-##### may u needs ✨
+##### Links ✨
 
 - [{{ site.author.email }}](mailto:abhishekkatyare@gmail.com)
 - [github.com/{{ site.author.github }}](http://github.com/abhishekkatyare)
