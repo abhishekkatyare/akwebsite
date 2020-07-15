@@ -17,5 +17,12 @@ I’m also interested in entrepreneurship, critical reading, listening to music,
 
 ##### Links ✨
 
-- [{{ site.author.email }}](mailto:abhishekkatyare@gmail.com)
-- [github.com/{{ site.author.github }}](http://github.com/abhishekkatyare)
+[//]: <> - [{{ site.author.email }}](mailto:abhishekkatyare@gmail.com)
+[//]: <> - [github.com/{{ site.author.github }}](http://github.com/abhishekkatyare)
+[abhishekkatyare.xyz](https://www.abhishekkatyare.xyz/) • 
+[About.Me](https://about.me/abhishekkatyare) • 
+[LinkedIn](http://www.linkedin.com/in/abhishekkatyare) • 
+[GitHub](https://github.com/abhishekkatyare) • 
+[Twitter](https://twitter.com/AbhishekKatyare) • 
+[Medium](https://medium.com/@abhishekkatyare) • 
+[DEV](https://dev.to/abhishekkatyare) 
